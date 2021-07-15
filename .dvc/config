@@ -1,0 +1,6 @@
+[cache]
+    dir = C:/Users/Kunal Chhabra/Documents/GitHub/external_cache
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://week2part1/dvcstore
